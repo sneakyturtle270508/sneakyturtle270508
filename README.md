@@ -15,7 +15,7 @@ Front-end developer passionate about **clean, minimal, and interactive web exper
 
 ## 🌟 Featured Projects
 - [Portfolio](https://github.com/yourusername/portfolio) – My design & animation showcase  
-- [Next School Break Timer](https://github.com/yourusername/break-timer) – Minimalist real-time countdown  
+- [nam](https://github.com/yourusername/break-timer) – Minimalist real-time countdown  
 - [Notes App](https://github.com/yourusername/notes-app) – Sync notes across devices  
 
 ---
