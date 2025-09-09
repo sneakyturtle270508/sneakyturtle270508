@@ -14,7 +14,7 @@ Front-end developer passionate about **clean, minimal, and interactive web exper
 ---
 
 ## 🌟 Featured Projects
-- [Portfolio](https://github.com/yourusername/portfolio) – My design & animation showcase  
+- [Portfolio](https://im24wil27051.imporsgrunn.no/) – My design & animation showcase  
 
 ---
 
