@@ -26,10 +26,6 @@ Loves working with <b>HTML</b>, <b>CSS</b>, <b>JS</b>, and <b>PHP</b>.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneakyturtle270508&layout=compact&theme=transparent&hide_border=true" width="48%"/>
 </p>
 
----
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sneakyturtle270508&theme=transparent&hide_border=true" width="60%"/>
-</p>
 
 
