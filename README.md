@@ -1,10 +1,14 @@
-<h2 align="center">💻 Tech Stack</h2>
+<h2 align="center">Tech Stack</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-333?style=flat&logo=html5&logoColor=E34F26"/>
+  <br>
   <img src="https://img.shields.io/badge/CSS3-333?style=flat&logo=css3&logoColor=1572B6"/>
+  <br>
   <img src="https://img.shields.io/badge/JavaScript-333?style=flat&logo=javascript&logoColor=F7DF1E"/>
+  <br>
   <img src="https://img.shields.io/badge/PHP-333?style=flat&logo=php&logoColor=777BB4"/>
+  <br>
   <img src="https://img.shields.io/badge/Firebase-333?style=flat&logo=firebase&logoColor=FFCA28"/>
 </p>
 
