@@ -1,15 +1,10 @@
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-333?style=flat&logo=html5&logoColor=E34F26"/>
-  <br>
-  <img src="https://img.shields.io/badge/CSS3-333?style=flat&logo=css3&logoColor=1572B6"/>
-  <br>
-  <img src="https://img.shields.io/badge/JavaScript-333?style=flat&logo=javascript&logoColor=F7DF1E"/>
-  <br>
-  <img src="https://img.shields.io/badge/PHP-333?style=flat&logo=php&logoColor=777BB4"/>
-  <br>
-  <img src="https://img.shields.io/badge/Firebase-333?style=flat&logo=firebase&logoColor=FFCA28"/>
+ 
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
 </p>
 
 ---
