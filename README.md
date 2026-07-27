@@ -9,12 +9,8 @@
 
 ---
 
-<h3 align="center">📈 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sneakyturtle270508&show_icons=false&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneakyturtle270508&layout=compact&theme=transparent&hide_border=true" width="48%"/>
-</p>
+<h3 align="center">music</h3>
+![](https://spotify-now-playing-nine-rho.vercel.app/spotify)
 
 
 
