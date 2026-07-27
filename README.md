@@ -10,7 +10,7 @@
 ---
 
 <h3 align="center">music</h3>
-![](https://spotify-now-playing-nine-rho.vercel.app/spotify)
+![Spotify Now Playing](https://spotify-now-playing-nine-rho.vercel.app/spotify)
 
 
 
